@@ -5,11 +5,11 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 
 # São Feitas Analises de:
 
-- ** Análise do faturamento
-- ** Vendas por Categoria
-- ** Média de Avaliação das Lojas
-- ** Produtos Mais e Menos Vendidos
-- ** Frete Médio por Loja
-- ** E por fim a Conclusão da Analise
+- Análise do faturamento
+- Vendas por Categoria
+- Média de Avaliação das Lojas
+- Produtos Mais e Menos Vendidos
+- Frete Médio por Loja
+- E por fim a Conclusão da Analise
 
 
