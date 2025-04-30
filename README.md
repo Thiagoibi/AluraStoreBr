@@ -12,4 +12,26 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 - Frete Médio por Loja
 - E por fim a Conclusão da Analise
 
+_readme
 
+# Principais Tecnologias e Biblioteca
+- Python
+- Biblioteca Pandas
+- Biblioteca Matplotlib
+- Biblioteca Numpy
+
+#Como Usar
+- Primeiro realizado a importação dos dados e da biblioteca pandas e fazer a conversão das lojas para listas em python.
+img
+
+- Segundo realizado a análise do faturamento onde e somada o faturamento individual, faturamento total e a media das 4 lojas e depois plotar o grafico.
+  img
+
+- Terceiro e realizado a contagem das vendas po categoria das 4 lojas e depois e plotar o grafico.
+- img
+
+- Quarto e realizado a Media de avaliação das lojas individualmente e depois e plotar o grafico.
+
+- Quinto e realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e plotar o grafico.
+
+- Sexto e ultimo passo e realizado o calculo das medias de prete por loja e depois e plotar o grafico.
