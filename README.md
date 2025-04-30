@@ -12,8 +12,6 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 - Frete Médio por Loja
 - E por fim a Conclusão da Analise
 
-_readme
-
 # Principais Tecnologias e Biblioteca
 - Python
 - Biblioteca Pandas
