@@ -19,21 +19,21 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 - Biblioteca Numpy
 
 #Como Usar
-- Primeiro realizado a importação dos dados e da biblioteca pandas e fazer a conversão das lojas para listas em python.
+- Primeiro é realizado a importação dos dados e da biblioteca pandas, é tambem a conversão das lojas para listas em python.
 
 <img src='img_readme/Importação dos dados.png' alt='Dados'>
 
-- Segundo realizado a análise do faturamento onde e somada o faturamento individual, faturamento total e a media das 4 lojas e depois plotar o grafico.
+- Segundo é realizado a análise do faturamento onde e são calculados o faturamento individual, faturamento total e a media das 4 lojas e depois e feito a plotagem do grafico.
 <img src='img_readme/Análise do faturamento_readme.png' alt='Faturamento'>
 
-- Terceiro e realizado a contagem das vendas po categoria das 4 lojas e depois e plotar o grafico.
+- Terceiro é realizado a contagem das vendas por categoria das 4 lojas e depois e feito a plotagem do grafico.
 <img src='img_readme/Vendas por Categoria_readme.png' alt='Vendas'>
 
-- Quarto e realizado a Media de avaliação das lojas individualmente e depois e plotar o grafico.
+- Quarto é realizado a Media de avaliação das lojas individualmente e depois e feito a plotagem do grafico.
 <img src='img_readme/Média de Avaliação das Lojas_readme.png' alt='Avaliação'>
 
-- Quinto e realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e plotar o grafico.
+- Quinto é realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e feito a plotagem do grafico.
 <img src='img_readme/Produtos Mais e Menos Vendidos_readme.png' alt='Mais_Menos'>
 
-- Sexto e ultimo passo e realizado o calculo das medias de frete por loja e depois e plotar o grafico.
+- Sexto é ultimo passo e realizado o calculo das medias de frete por loja e depois e feito a plotagem do grafico.
 <img src='img_readme/Frete Médio por Loja_readme.png' alt='Frete'>
