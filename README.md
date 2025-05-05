@@ -20,7 +20,7 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 
 #Como Usar
 - Primeiro realizado a importação dos dados e da biblioteca pandas e fazer a conversão das lojas para listas em python.
-<<<<<<< HEAD
+
 <img src='img_readme/Importação dos dados.png' alt='Dados'>
 
 - Segundo realizado a análise do faturamento onde e somada o faturamento individual, faturamento total e a media das 4 lojas e depois plotar o grafico.
