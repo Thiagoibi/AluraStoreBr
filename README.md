@@ -37,7 +37,6 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 
 - Quarto é realizado a Media de avaliação das lojas individualmente e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Média de Avaliação das Lojas_readme.png' alt='Avaliação'>
-<img src='img_readme/Média de Avaliação das Lojas_readme.png' alt='Avaliação'>
 
 - Quinto é realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Produtos Mais e Menos Vendidos_readme.png' alt='Mais_Menos'>
@@ -53,6 +52,5 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 A loja com menor faturamento foi a Loja4, com 1.384.497,58, enquanto a loja com maior faturamento foi a primeira Loja, com 1.488.459,05.
 
 - Frete Médio por Loja
-<img src='img/Média de Avaliação das Lojas2.png' alt=' Média de Avaliação das Lojas2'>
 <img src='img/Média de Avaliação das Lojas2.png' alt=' Média de Avaliação das Lojas2'>
 Foi calculada a média das avaliações recebidas por cada loja. A Loja3 obteve a melhor média, com 4,048, arredondada para 4,05. Já a primeira Loja teve a menor média, com 3,976, arredondada para 3,98.
