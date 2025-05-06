@@ -51,6 +51,7 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 <img src='img/Análise do faturamento2.png' alt='Gráfico com faturamento das lojas2'>
 A loja com menor faturamento foi a Loja4, com 1.384.497,58, enquanto a loja com maior faturamento foi a primeira Loja, com 1.488.459,05.
 
+
 - Frete Médio por Loja
 <img src='img/Média de Avaliação das Lojas2.png' alt=' Média de Avaliação das Lojas2'>
 Foi calculada a média das avaliações recebidas por cada loja. A Loja3 obteve a melhor média, com 4,048, arredondada para 4,05. Já a primeira Loja teve a menor média, com 3,976, arredondada para 3,98.
