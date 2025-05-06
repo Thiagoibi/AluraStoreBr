@@ -18,21 +18,39 @@ O desafio do curso Praticando Python para Data Science: Challenge Alura Store te
 - Biblioteca Matplotlib
 - Biblioteca Numpy
 
+# Organização dos arquivos:
+- img: Imagens dos gráficos presentes no arquivo AluraStoreBR.ipynb e no README.md.
+- img_readme: Imagens exclusivas do README.md.
+- AluraStoreBR.ipynb: Arquivo principal do projeto.
+- README.md: Apresentação do projeto.
+- dados: Fontes dos dados em formato .csv.
+
 #Como Usar
 - Primeiro é realizado a importação dos dados e da biblioteca pandas, é tambem a conversão das lojas para listas em python.
 <img src='img_readme/Importação dos dados.png' alt='Dados'>
 
-- Segundo é realizado a análise do faturamento onde e são calculados o faturamento individual, faturamento total e a media das 4 lojas e depois e feito a plotagem do grafico.
+- Segundo é realizado a análise do faturamento onde e são calculados o faturamento individual, faturamento total e a media das 4 lojas e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo.
 <img src='img_readme/Análise do faturamento_readme.png' alt='Faturamento'>
 
-- Terceiro é realizado a contagem das vendas por categoria das 4 lojas e depois e feito a plotagem do grafico.
+- Terceiro é realizado a contagem das vendas por categoria das 4 lojas e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Vendas por Categoria_readme.png' alt='Vendas'>
 
-- Quarto é realizado a Media de avaliação das lojas individualmente e depois e feito a plotagem do grafico.
+- Quarto é realizado a Media de avaliação das lojas individualmente e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Média de Avaliação das Lojas_readme.png' alt='Avaliação'>
 
-- Quinto é realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e feito a plotagem do grafico.
+- Quinto é realizado a contagem dos produtos Mais e Menos Vendidos de cada loja e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Produtos Mais e Menos Vendidos_readme.png' alt='Mais_Menos'>
 
-- Sexto é ultimo passo e realizado o calculo das medias de frete por loja e depois e feito a plotagem do grafico.
+- Sexto é ultimo passo e realizado o calculo das medias de frete por loja e depois e feito a plotagem do grafico, cujo código não está presente na imagem abaixo..
 <img src='img_readme/Frete Médio por Loja_readme.png' alt='Frete'>
+
+
+#Alguns Graficos Plotados e alguns insights:
+
+- Análise do faturamento
+<img src='img/Análise do faturamento2.png' alt='Gráfico com faturamento das lojas2'>
+A loja com menor faturamento foi a Loja4, com 1.384.497,58, enquanto a loja com maior faturamento foi a primeira Loja, com 1.488.459,05.
+
+- Frete Médio por Loja
+<img src='img/Média de Avaliação das Lojas2.png' alt=' Média de Avaliação das Lojas2'>
+A Loja4 teve o menor custo médio, com 31,27, ficando abaixo da média geral.
