@@ -53,4 +53,4 @@ A loja com menor faturamento foi a Loja4, com 1.384.497,58, enquanto a loja com 
 
 - Frete Médio por Loja
 <img src='img/Média de Avaliação das Lojas2.png' alt=' Média de Avaliação das Lojas2'>
-A Loja4 teve o menor custo médio, com 31,27, ficando abaixo da média geral.
+Foi calculada a média das avaliações recebidas por cada loja. A Loja3 obteve a melhor média, com 4,048, arredondada para 4,05. Já a primeira Loja teve a menor média, com 3,976, arredondada para 3,98.
